@@ -1,6 +1,5 @@
 +++
 date = 2018-06-28T17:17:55Z
-draft = true
 layout = "blocks"
 title = "All Available Blocks."
 [[page_sections]]
@@ -133,6 +132,11 @@ col_3 = "Some more content"
 col_4 = "Now I'm content"
 image = "/uploads/2018/06/21/forestry-symbol.svg"
 template = "4-column-footer"
+[[page_sections]]
+block = "header-1"
+logo = ""
+navigation = []
+template = "navigation-header"
 [[page_sections]]
 block = "header-1"
 logo = ""
